@@ -5,6 +5,6 @@ public class Main {
         System.out.println("lllll"+"master test");
         System.out.println("lllll");
         System.out.println("hot-fix test");
-        System.out.println("cty");
+        System.out.println("cty"+"hahhahaha");
     }
 }
